@@ -7,7 +7,7 @@
 ## zhifangtu
 > 2.4直方图
 ## xiangtu
-> 2.4箱式图
+> [2.4箱式图](xiangtu/)
 ## zhexian
 > 3.1折线图
 ## shandiantu
