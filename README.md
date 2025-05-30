@@ -5,11 +5,11 @@
 > [xiangMatrix_results.csv](pre-data/xiangMatrix_results.csv) : 2.3相关系数矩阵  
 > [outlier_results.csv](pre-data/outlier_results.csv) : 2.5离群值  
 ## zhifangtu
-> 2.4直方图
+> [2.4直方图](zhifangtu/)
 ## xiangtu
 > [2.4箱式图](xiangtu/)
 ## zhexian
-> 3.1折线图
+> [3.1折线图](zhexian/)
 ## shandiantu
 > [diff,fp,rx.png](shandiantu/diff,fp,rx.png) : 3.2散点图  
 > [cluster.png](shandiantu/cluster.png) : 4.2作业二聚类结果
